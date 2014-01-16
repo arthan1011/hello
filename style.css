@@ -1,0 +1,19 @@
+div {
+	background-color: red;
+	position: re;
+}
+
+html {
+	padding: 0;
+}
+
+body {
+	padding: 0;
+	background-color: yellow;
+	margin: 0;
+}
+
+html {
+	margin: 0;
+	padding: 0;
+}
