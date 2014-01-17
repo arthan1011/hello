@@ -1,0 +1,30 @@
+body {
+	font-family: Verdana, san-serif;
+}
+
+div {
+	padding: 3px 3px;
+	border: 2px solid black;
+}
+
+div.main {
+	width: 1000px;
+	margin: 0 auto;
+	background-color: aqua;
+}
+
+div.header {
+	height: 200px;
+	padding: 3px;
+	margin-bottom: 5px;
+}
+
+div.left {
+	width: 400px;
+	float: left;
+}
+
+div.right {
+	margin-left: 415px;
+}
+
