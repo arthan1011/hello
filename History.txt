@@ -2,10 +2,6 @@
   * Major Enhancements
     * All filesystem calls have been moved into Grit::Git to allow proxying
   * Non-code changes
-    * Removed all trailing whitespace in code files
-  * Bug Fixes
-    * Repo.archive_tar_gz now passes -n option to gzip to be idempotent
-    * Fix RubyGit's diff to detect additions and deletions [github.com/defunkt]
 
 == 1.1.1 / 2009-03-31
   * Changes
